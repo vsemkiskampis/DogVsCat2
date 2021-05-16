@@ -1,0 +1,237 @@
+*{
+    box-sizing: border-box;
+    cursor: url(../img/cursor.png),default;
+}
+
+
+body{
+    margin: 0;
+    
+}
+.header{
+    position: relative;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    width: 100%;
+    height: 200px;
+    background-color: rgba(34, 27, 25, 0.7);
+    bottom: 40px;
+    margin: 0 auto;
+    font-size: 40px;
+}
+
+#cafe{
+    margin-top: 40px;
+    padding-top: 50px;
+    font-size: 100px;
+    font-family: Century Gothic;
+}
+
+
+
+ul.hr {
+    position: relative;
+    text-align: center;
+    max-width: 100%;
+    font-family: Century Gothic;
+    font-size: 30px;
+    margin: 0; 
+    margin-top:-40px;
+    height: 48px;
+    top:-2px;
+    background-color: #ffe7c4;
+  
+}
+
+
+ul.hr li {
+    display: inline;
+    margin-right: 20px;
+    padding: 3px;
+    transition: 0.5s;
+    
+    position: relative;
+    bottom: -2px;
+   }
+
+
+ul.hr li:hover {
+        transition: 0.5s;
+        background-color: rgb(255, 185, 167);
+    
+   }
+ul.hr a {
+    text-decoration: none;
+    color:black;
+    
+
+}
+
+.main-page{
+    position: relative;
+    text-align: center;
+    font-family: Century Gothic;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: rgba(34, 27, 25, 0.7);
+    top:25px;
+    width: 1100px;
+    margin: 0 auto;
+    color: aliceblue;
+}
+
+
+
+.scene{
+    position: fixed;
+    left: 0;
+    top:-30px;
+    bottom: 0;
+    right: 0;
+    min-height: 100vh;
+    
+}
+
+
+.layer{
+    position: absolute;
+    left: -10%;
+    top:0;
+    width: 110%;
+    height: 100%;
+}
+
+.layer-bg{
+    background: url('../img/background.png')center no-repeat;
+    background-size: cover;
+}
+
+
+.layer-1{
+    position: absolute;
+    top:200px;
+    background: url('../img/backgroun1d.png')center no-repeat;
+    background-size: cover;
+}
+
+
+
+
+#page-preloader {
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background: rgb(34, 27, 25);
+    z-index: 100500;
+}
+
+#page-preloader .spinner {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    left: 43%;
+    top: 35%;
+    background: url(../img/spinner.png) no-repeat 100% 100%;
+    margin: -16px 0 0 -16px;
+}
+
+
+
+
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+}
+
+#button{
+    outline: none; /* Для синий ободки */
+    border: 0;
+    background: transparent;
+    background:url(../img/Mishen.png) no-repeat top;
+    position: relative;
+    
+    width: 350px;
+    height: 220px;
+}
+
+
+#button:active {
+    background: url(../img/Mishen2.png) no-repeat top;
+    width: 350px;
+    height: 220px;
+    }
+
+
+
+#counter{
+    font-family: Century Gothic;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    position: relative;
+    padding-top: 10px;
+}
+
+
+#display{
+    position: relative;
+    color:white;
+    font-size: 30px;
+    font-family: Century Gothic;
+}
+
+#reebut{
+    position: relative;
+    outline: none; /* Для синий ободки */
+    border: 0;
+    background: transparent;
+    background: url(../img/rebut.png) no-repeat top;
+    width: 32px;
+    height: 32px;
+   
+}
+
+
+.reb{
+    display: none;
+}
+
+.newClass{
+    display: block;
+}
+
+
+
+
+.listen{
+    position: relative;
+    font-family: SEGOE SCRIPT;
+    font-size: 30px;
+    color: white;
+}
+
+
+.listen2{
+    
+    display: none;
+     
+}
+
+
+
+.main-page{
+    position: relative;
+    text-align: center;
+    font-family: Century Gothic;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: rgba(34, 27, 25, 0.7);
+    top:25px;
+    width: 1200px;
+    margin: 0 auto;
+    color: aliceblue;
+}
