@@ -270,7 +270,10 @@ ul.hr {
     .header{
         width: 100%;
     }
-    
+    .heroes{
+        width: 100%;
+        height: auto;
+    }
     ul.hr {
         font-size: 7px;
         width: 100%;
