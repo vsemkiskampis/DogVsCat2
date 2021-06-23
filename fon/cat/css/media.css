@@ -10,7 +10,6 @@
     }
     .topnav{
         display: block;
-        position: sticky;
     }
     #myLinks{
         font-size: 7px;
@@ -46,7 +45,6 @@
     }
     .topnav{
         display: block;
-        position: sticky;
     }
     #myLinks{
         font-size: 7px;
@@ -79,7 +77,6 @@
     }
     .topnav{
         display: block;
-        position: sticky;
     }
     #myLinks{
         font-size: 7px;
@@ -136,7 +133,6 @@
     }
     .topnav{
         display: block;
-        position: sticky;
     }
     #myLinks{
         font-size: 7px;
@@ -184,7 +180,6 @@
     }
     .topnav{
         display: block;
-        position: sticky;
     }
     #myLinks{
         font-size: 7px;
@@ -255,7 +250,6 @@
 }
 .topnav{
     display: block;
-    position: sticky;
 }
 #myLinks{
     font-size: 7px;
