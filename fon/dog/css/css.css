@@ -80,7 +80,18 @@ ul.hr a {
     color: aliceblue;
 }
 
-
+.main-page2{
+    position: relative;
+    text-align: center;
+    font-family: FreeMono, monospace;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: rgba(131, 90, 80, 0.7);
+    top:25px;
+    width: 1100px;
+    margin: 0 auto;
+    color: aliceblue;
+}
 
 .heroes{
     position: relative;

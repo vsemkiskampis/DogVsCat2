@@ -155,6 +155,9 @@
     
     .heroes{
         width: 367px;
+    }
+    .heroes2{
+        width: 367px;
         height: 647px;
     }
     .character {
@@ -210,6 +213,9 @@ ul.hr {
     height: 20px;
 }
 .heroes{
+    width: 367px;
+}
+.heroes2{
     width: 367px;
     height: 647px;
 }

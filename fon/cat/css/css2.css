@@ -94,6 +94,18 @@ ul.hr a {
     margin: 0 auto;
     color: aliceblue;
 }
+.heroes2{
+    position: relative;
+    text-align: center;
+    font-family: FreeMono, monospace;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: rgba(34, 27, 25, 0.7);
+    top:25px;
+    width: 100%;
+    margin: 0 auto;
+    color: aliceblue;
+}
 
 
 .main-page h2,p{
