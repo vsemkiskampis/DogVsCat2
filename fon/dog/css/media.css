@@ -1,0 +1,277 @@
+
+@media screen and (max-device-width: 1024px){
+    .main-page {
+        width: 100%;
+    }
+    ul.hr {
+        font-size: 28px;
+        height: 50px;
+    }
+    .main-page h2, p {
+        font-size: 45px;
+    }
+
+    .header {
+        height: 200px;
+    }
+    #cafe{
+        font-size:100px;
+        padding-top: 50px;
+    }
+    #page-preloader .spinner {
+        left: 22%;
+        top: 39%;
+    }
+}
+
+@media screen and (max-device-width: 768px){
+    .main-page {
+        width: 100%;
+    }
+    ul.hr {
+        font-size: 18px;
+        height: 30px;
+    }
+    .main-page h2, p {
+        font-size: 32px;
+    }
+
+    .header {
+        height: 170px;
+    }
+    #cafe{
+        font-size:88px;
+        padding-top: 50px;
+    }
+    #page-preloader .spinner {
+        left: 34%;
+        top: 39%;
+    }
+}
+
+
+@media screen and (max-width: 540px){
+    .main-page {
+        width: 100%;
+        height: 550px;
+    }
+    .main-page h2, p {
+        font-size: 35px;
+    }
+
+    .header {
+        height: 142px;
+    }
+    #cafe{
+        font-size:55px;
+        padding-top: 50px;
+    }
+    ul.hr {
+        font-size: 15px;
+        height: 30px;
+    }
+    
+    .stat {
+        bottom: 15px;
+        left: 200px;
+        position: absolute;
+    }
+    
+    .currentPlayer {
+        position: absolute;
+        top: 23px;
+        left: 190px;
+    }
+    #page-preloader .spinner {
+        left: 22%;
+        top: 39%;
+    }
+}
+
+
+@media screen  and (max-device-width:500px){
+    ul.hr {
+        font-size: 9px;
+        height: 25px;
+    }
+    .main-page {
+        
+        width: 100%;
+    }
+    .main-page h2, p {
+        font-size: 22px;
+    }
+    .heroes{
+        width: 474px;
+        height: 725px;
+    }
+
+    .character {
+        font-size: 15px;
+    }
+    .character2 {
+        font-size: 15px;
+        padding-top: 1px;
+    }
+
+    .character3 {
+        font-size: 15px;
+        padding-top: 32px;
+    }
+    #page-preloader .spinner {
+        left: 22%;
+        top: 39%;
+    }
+}
+
+@media screen  and (max-device-width:450px){
+    #cafe{
+        font-size:45px;
+        padding-top: 50px;
+    }
+    .header{
+        width: 100%;
+    }
+    
+    ul.hr {
+        font-size: 15px;
+        width: 100%;
+        height: 30px;
+    }
+    .heroes{
+        width: 100%;
+        height: 647px;
+    }
+    .character {
+        font-size: 12px;
+        padding-bottom: 21px;
+    }
+    .character2 {
+        font-size: 12px;
+        padding-top: 1px;
+    }
+    
+    .character3 {
+        font-size: 12px;
+        padding-top: 32px;
+    }
+    
+    .main-page{
+    width: 100%;
+    height: 635px;
+    }
+    .main-page h2, p {
+        font-size: 22px;
+    }
+    
+    .stat {
+        bottom: 60px;
+        left: 132px;
+        position: absolute;
+    }
+    
+    .currentPlayer {
+        position: absolute;
+        top: 23px;
+        left: 130px;
+    }
+    #page-preloader .spinner {
+        left: 22%;
+        top: 39%;
+    }
+    }
+@media screen  and (max-device-width:375px){
+#cafe{
+    font-size:45px;
+    padding-top: 50px;
+}
+.header{
+    width: 100%;
+}
+
+ul.hr {
+    font-size: 13px;
+    width: 100%;
+    height: 20px;
+}
+.heroes{
+    width: 367px;
+    height: 647px;
+}
+.character {
+    font-size: 12px;
+    padding-bottom: 21px;
+}
+.character2 {
+    font-size: 12px;
+    padding-top: 1px;
+}
+
+.character3 {
+    font-size: 12px;
+    padding-top: 32px;
+}
+
+.main-page{
+width: 100%;
+height: 635px;
+}
+.main-page h2, p {
+    font-size: 22px;
+}
+.listen{
+    font-size: 15px;
+}
+
+.stat {
+    bottom: 60px;
+    left: 115px;
+    position: absolute;
+}
+
+.currentPlayer {
+    position: absolute;
+    top: 23px;
+    left: 112px;
+}
+#page-preloader .spinner {
+    left: 22%;
+    top: 39%;
+}
+}
+
+
+@media screen  and (max-device-width:320px){
+    #cafe{
+        font-size:50px;
+        padding-top: 50px;
+    }
+    .header{
+        width: 100%;
+    }
+    
+    ul.hr {
+        font-size: 7px;
+        width: 100%;
+        height: 20px;
+    }
+    .stat {
+        bottom: 120px;
+        left: 80px;
+        position: absolute;
+    }
+    
+    .currentPlayer {
+        position: absolute;
+        top: 23px;
+        left: 90px;
+    }
+    .cell{
+        width: 66px;
+        height: 70px;
+    }
+    #page-preloader .spinner {
+        left: 22%;
+        top: 39%;
+    }
+    }
