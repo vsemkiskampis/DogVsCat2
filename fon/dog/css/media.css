@@ -190,7 +190,7 @@
 }
 
 ul.hr {
-    font-size: 13px;
+    font-size: 11px;
     width: 100%;
     height: 20px;
 }
@@ -214,10 +214,10 @@ ul.hr {
 
 .main-page{
 width: 100%;
-height: 635px;
+height: auto;
 }
 .main-page h2, p {
-    font-size: 22px;
+    font-size: 15px;
 }
 .listen{
     font-size: 15px;
