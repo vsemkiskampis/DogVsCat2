@@ -9,6 +9,14 @@
     ul.hr {
         font-size: 28px;
         height: 50px;
+        display: none;
+    }
+    .topnav{
+        display: block;
+        
+    }
+    #myLinks{
+        font-size: 7px;
     }
     .main-page h2, p {
         font-size: 45px;
@@ -16,6 +24,7 @@
 
     .header {
         height: 200px;
+        display: none;
     }
     #cafe{
         font-size:100px;
@@ -34,9 +43,17 @@
     .main-page2 {
         width: 100%;
     }
+    .topnav{
+        display: block;
+        
+    }
+    #myLinks{
+        font-size: 7px;
+    }
     ul.hr {
         font-size: 18px;
         height: 30px;
+        display: none;
     }
     .main-page h2, p {
         font-size: 32px;
@@ -44,6 +61,7 @@
 
     .header {
         height: 170px;
+        display: none;
     }
     #cafe{
         font-size:88px;
@@ -71,6 +89,7 @@
 
     .header {
         height: 142px;
+        display: none;
     }
     #cafe{
         font-size:55px;
@@ -79,6 +98,7 @@
     ul.hr {
         font-size: 15px;
         height: 30px;
+        display: none;
     }
     
     .stat {
@@ -103,6 +123,18 @@
     ul.hr {
         font-size: 9px;
         height: 25px;
+        display: none;
+    }
+    .header{
+        display: none;
+    }
+
+    .topnav{
+        display: block;
+        
+    }
+    #myLinks{
+        font-size: 7px;
     }
     .main-page {
         height: auto;
@@ -144,12 +176,20 @@
     }
     .header{
         width: 100%;
+        display: none;
     }
-    
+    .topnav{
+        display: block;
+        
+    }
+    #myLinks{
+        font-size: 7px;
+    }
     ul.hr {
         font-size: 11px;
         width: 100%;
         height: 30px;
+        display: none;
     }
     .heroes{
         width: 100%;
@@ -205,12 +245,21 @@
 }
 .header{
     width: 100%;
+    display: none;
 }
-
+.topnav{
+    display: block;
+    
+}
+#myLinks{
+    font-size: 7px;
+}
 ul.hr {
     font-size: 11px;
     width: 100%;
     height: 20px;
+    margin-top: -38px;
+    display:none;
 }
 .heroes{
     width: 367px;
@@ -245,8 +294,8 @@ ul.hr {
 }
 
 .stat {
-    bottom: 60px;
-    left: 115px;
+    bottom: 101px;
+    left: 126px;
     position: absolute;
 }
 

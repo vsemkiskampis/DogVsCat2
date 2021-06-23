@@ -6,6 +6,14 @@
     ul.hr {
         font-size: 28px;
         height: 50px;
+        display: none;
+    }
+    .topnav{
+        display: block;
+        
+    }
+    #myLinks{
+        font-size: 7px;
     }
     .main-page h2, p {
         font-size: 45px;
@@ -13,6 +21,7 @@
 
     .header {
         height: 200px;
+        display: none;
     }
     #cafe{
         font-size:100px;
@@ -33,6 +42,14 @@
     ul.hr {
         font-size: 22px;
         height: 40px;
+        display: none;
+    }
+    .topnav{
+        display: block;
+        
+    }
+    #myLinks{
+        font-size: 7px;
     }
     .main-page h2, p {
         font-size: 32px;
@@ -41,6 +58,7 @@
     .header {
         height: 170px;
         width: 100%;
+        display: none;
     }
     #cafe{
         font-size:88px;
@@ -59,9 +77,16 @@
     .main-page h2, p {
         font-size: 35px;
     }
-
+    .topnav{
+        display: block;
+        
+    }
+    #myLinks{
+        font-size: 7px;
+    }
     .header {
         height: 142px;
+        display: none;
     }
     #cafe{
         font-size:55px;
@@ -70,6 +95,7 @@
     ul.hr {
         font-size: 15px;
         height: 30px;
+        display: none;
     }
     .heroes{
         height: 556px;
@@ -96,13 +122,24 @@
     ul.hr {
         font-size: 9px;
         height: 25px;
+        display: none;
     }
     .main-page {
         
         width: 100%;
     }
+    .header{
+        display: none;
+    }
     .main-page h2, p {
         font-size: 22px;
+    }
+    .topnav{
+        display: block;
+        
+    }
+    #myLinks{
+        font-size: 7px;
     }
     .heroes{
         width: 474px;
@@ -143,6 +180,14 @@
     }
     .header{
         width: 100%;
+        display: none;
+    }
+    .topnav{
+        display: block;
+        
+    }
+    #myLinks{
+        font-size: 7px;
     }
     .listen{
         font-size: 22px;
@@ -151,6 +196,7 @@
         font-size: 12px;
         width: 100%;
         height: 30px;
+        display: none;
     }
     
     .heroes{
@@ -205,12 +251,20 @@
 }
 .header{
     width: 100%;
+    display: none;
 }
-
+.topnav{
+    display: block;
+    
+}
+#myLinks{
+    font-size: 7px;
+}
 ul.hr {
     font-size: 9px;
     width: 100%;
     height: 20px;
+    display: none;
 }
 .heroes{
     width: 367px;
@@ -243,8 +297,8 @@ width: 100%;
     font-size: 15px;
 }
 .stat {
-    bottom: 68px;
-    left: 121px;
+    bottom: 101px;
+    left: 126px;
     position: absolute;
 }
 
