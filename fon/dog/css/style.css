@@ -83,10 +83,11 @@
 }
 
 .topnav a.icon {
-  background: black;
+  background: #d49494;
   display: block;
   position: absolute;
   right: 0;
+  padding-top: 8px;
   top: 0;
 }
 
